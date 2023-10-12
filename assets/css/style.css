@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #ffc451;
+  color: Blue;
   text-decoration: none;
 }
 
 a:hover {
-  color: #ffd584;
+  color:azure;
   text-decoration: none;
 }
 
